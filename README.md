@@ -1,41 +1,35 @@
-<!-- ✨ Awesome README for GitHub Profile ✨ -->
+<!-- Profile Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Alireza%20Jamshidi&fontAlign=50&fontAlignY=35&animation=twinkling&fontSize=40" width="100%" />
 
-<!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Hi%20👋%20I'm%20Alireza%20Jamshidi&fontAlign=50&fontAlignY=35&animation=twinkling&fontSize=40" width="100%" />
-
-<!-- Intro -->
-<h3 align="center">
-  🚀 Software Testing & QA Engineer <br>
-  📱 Android Automation | 🐍 Python Expert | 📐 POM Advocate
-</h3>
-
-<!-- GIF -->
-<img align="right" src="https://media1.tenor.com/m/TkVMEbCIP-QAAAAd/qa-quality.gif" height="200" alt="QA GIF" />
-
-<p align="left">
-🎯 Specializing in Android automation using <strong>Python</strong> and <strong>Appium</strong>.  
-💡 Experienced in building robust <strong>Page Object Model (POM)</strong> frameworks.  
-✨ Focused on delivering scalable, high-quality solutions for the best user experience.
+<h3 align="center">🚀 Software Testing & QA Engineer</h3>
+<p align="center">
+  📱 Android Automation | 🐍 Python (Expert) | 📐 Page Object Model Advocate
 </p>
+
+---
+
+## 👨‍💻 About Me
+- 🐍 Passionate about building **Python-based automation frameworks**  
+- 📱 Specialized in **Android test automation** with **Appium**  
+- 📐 Strong advocate of the **Page Object Model (POM)**  
+- 🚀 Focused on scalable, reusable, and high-quality testing solutions  
 
 ---
 
 ## 🔧 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,appium,java,html,css,js,cs,git,github" height="50" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=🐍+Python+%26+Appium;📱+Android+Automation;📐+Page+Object+Model+(POM);☁️+Git+%26+GitHub;🎨+HTML+%7C+CSS+%7C+JavaScript;💻+Java+%26+C%23" alt="Skills Typing Animation" />
 </div>
 
 ---
-
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 <div align="center">
+
+  <!-- Replace alirezajam98 with your actual GitHub username -->
   <img src="https://github-readme-stats.vercel.app/api?username=alirezajam98&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezajam98&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-</div>
 
-<!-- Streak -->
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=alirezajam98&theme=tokyonight&hide_border=true" height="180"/>
+
 </div>
 
 ---
@@ -49,18 +43,24 @@
 </div>
 
 ---
-
-## ✨ Fun Facts
-- 🎨 Love building modular & reusable test frameworks  
-- 🌱 Always exploring new automation tools & frameworks  
-- 🚀 Passionate about QA, DevOps, and continuous improvement  
-- 🏆 Motto: *"Automation saves time, Quality saves reputation"*  
-
----
-
-<!-- Typing animation -->
+## 🛠️ Skills & Tools
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Keep+Testing...;Keep+Automating...;Keep+Improving!"/>
+  <!-- Programming & Automation -->
+  <img src="https://skillicons.dev/icons?i=python,appium,selenium" height="50" alt="Python Appium Selenium"/>
+  <img src="https://skillicons.dev/icons?i=java,cs" height="50" alt="Java C#"/>
+  
+  <!-- Web -->
+  <img src="https://skillicons.dev/icons?i=html,css,js" height="50" alt="HTML CSS JavaScript"/>
+  
+  <!-- DevOps & Version Control -->
+  <img src="https://skillicons.dev/icons?i=git,github" height="50" alt="Git GitHub"/>
+  
+  <!-- Others -->
+  <img src="https://skillicons.dev/icons?i=vscode,idea" height="50" alt="VSCode IntelliJ"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Keep+Testing...;Keep+Automating...;Keep+Improving!" />
 </div>
 
 <!-- Footer -->
