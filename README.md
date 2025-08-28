@@ -1,61 +1,67 @@
-<h1 align="center">Hi 👋! I'm Alireza Jamshidi</h1>
+<!-- ✨ Awesome README for GitHub Profile ✨ -->
+
+<!-- بنر -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Hi%20👋%20I'm%20Alireza%20Jamshidi&fontAlign=50&fontAlignY=35&animation=twinkling&fontSize=40" width="100%" />
+
+<!-- معرفی -->
 <h3 align="center">
-  🚀 Software Testing and Quality Assurance Specialist <br>
+  🚀 Software Testing & QA Engineer <br>
   📱 Android Automation | 🐍 Python & Appium | 📐 POM Advocate
 </h3>
 
+<!-- گیف سمت راست -->
 <img align="right" src="https://media1.tenor.com/m/TkVMEbCIP-QAAAAd/qa-quality.gif" height="200" alt="QA GIF" />
 
 <p align="left">
-  🎯 I specialize in automation testing for Android applications using <strong>Python</strong> and <strong>Appium</strong>, following the robust <strong>Page Object Model (POM)</strong> methodology. My focus is on delivering high-quality and scalable solutions to ensure the best user experience.
+🎯 متخصص تست اتوماسیون اندروید با استفاده از <strong>Python</strong> و <strong>Appium</strong>  
+💡 پیاده‌سازی ساختار <strong>Page Object Model (POM)</strong> برای تست‌های مقیاس‌پذیر  
+✨ تمرکز بر ارائه‌ی راه‌حل‌های پایدار و باکیفیت برای بهبود تجربه‌ی کاربری
 </p>
 
 ---
 
-<h2 align="center">🔧 Tech Stack</h2>
+## 🔧 Tech Stack
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img src="https://i.imgur.com/qSYF3dT.png" height="40" alt="Appium" /> <!-- لینک تصویر آپلود شده برای Appium -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
+  <img src="https://skillicons.dev/icons?i=python,java,appium,html,css,js,cs,git,github" height="50" />
 </div>
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 <div align="center">
-  <!-- کارت وضعیت گیت‌هاب -->
-  <img src="https://github-readme-stats.vercel.app/api?username=alirezajam98&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
-  <!-- کارت زبان‌های برتر -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezajam98&layout=compact&theme=radical" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alirezajam98&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezajam98&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</div>
+
+<!-- streak -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=alirezajam98&theme=tokyonight&hide_border=true" height="180"/>
 </div>
 
 ---
 
-<h2 align="center">📫 Let's Connect</h2>
+## 🌍 Connect with Me
 <div align="center">
-  <a href="mailto:alirezajamshidi704@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
-  </a>
-  <a href="https://t.me/alirezajamshidi98" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Telegram" />
-  </a>
-  <a href="https://instagram.com/alirezajamshidi___" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/alireza-jamshidi-%D8%B9%D9%84%DB%8C%D8%B1%D8%B6%D8%A7-%D8%AC%D9%85%D8%B4%DB%8C%D8%AF%DB%8C-5a9247244" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
+  <a href="mailto:alirezajamshidi704@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://t.me/alirezajamshidi98"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://instagram.com/alirezajamshidi___"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://linkedin.com/in/alireza-jamshidi-5a9247244"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
 </div>
 
 ---
 
-<h2 align="center">✨ Fun Facts</h2>
-<ul>
-  <li>🎨 I love creating modular and reusable test frameworks.</li>
-  <li>🌱 Always learning new tools to enhance testing workflows.</li>
-  <li>📚 Passionate about exploring trends in DevOps and automation.</li>
-</ul>
+## ✨ Fun Facts
+- 🎨 عاشق ساختن فریم‌ورک‌های **ماژولار و قابل استفاده مجدد**
+- 🌱 همیشه دنبال یادگیری ابزارهای جدید تست
+- 🚀 علاقه‌مند به **DevOps و تست خودکار در مقیاس بزرگ**
+- 🏆 باور دارم: *"Automation saves time, Quality saves reputation"*
+
+---
+
+<!-- انیمیشن اسکرول -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Keep+Testing...;Keep+Automating...;Keep+Improving!"/>
+</div>
+
+<!-- فوتر -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
